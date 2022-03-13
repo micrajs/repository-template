@@ -15,6 +15,6 @@
 
 {{{ DESCRIPTION }}}
 
-## Author
+## Contributors
 
 - [Olavo Amorim Santos](https://github.com/olavoasantos)
